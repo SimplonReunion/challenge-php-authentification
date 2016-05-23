@@ -4,8 +4,7 @@ Nous avons vu du CRUD avec l'activité [randonnée](https://github.com/SimplonRe
 
 Certains actions du CRUD ne doivent pas être accessibles par n'importe qui : comme la mise à jour, la création et la suppression.
 
-Nous allons mettre en place une protection pour permettre l'utilisation de ces fonctionnalités uniquement à des personnes enregistrées en base de données
-(les utilisateurs de confiance).
+Dans ce challenge, nous allons mettre en place une protection sur nos pages *create.php, update.php, delete.php* de l'activité [randonnée](https://github.com/SimplonReunion/php-mysql-crud), pour laisser l'utilisation de ces fonctionnalités uniquement à des personnes enregistrées en base de données (les utilisateurs de confiance).
 
 # Comment ça marche
 
